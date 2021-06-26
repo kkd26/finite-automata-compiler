@@ -1,0 +1,12 @@
+*~
+#*#
+*.cmi
+*.cmo
+*.cmx
+*.out
+*.o
+*.byte
+
+.vscode/
+_build/
+bin/
